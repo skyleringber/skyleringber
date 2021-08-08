@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skyler252
-- 👀 I’m interested in creating websites.
-- 🌱 I’m currently learning JavaScript.
+- 👋 Hi, I’m @skyler252 (Skyler)!
+- 👀 I’m interested in creating websites and Web Development.
+- 🌱 I’m currently learning JavaScript and Bootstrap.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me at skyleringberbarmitzvah@gmail.com.
 
