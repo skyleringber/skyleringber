@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Skyler! (@skyler252)
-- 👀 I’m interested in creating websites/front end web development.
+- 👀 I’m interested in front end web development.
 - 🌱 I’m currently learning Bootstrap.
 - 💞️ I’m looking to collaborate on a website using Bootstrap.
 - 📫 You can reach me at skyleringberbarmitzvah@gmail.com.
