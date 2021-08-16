@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Skyler (@skyler252)!
+- 👋 Hi, I’m Skyler! (@skyler252)
 - 👀 I’m interested in creating websites/web development.
 - 🌱 I’m currently learning Bootstrap.
 - 💞️ I’m looking to collaborate on a website using Bootstrap.
