@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Skyler Ingber! (@skyler252)
+- 👋 Hi, I’m Skyler Ingber! (@skyleringber)
 - 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on nothing currently.
